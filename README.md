@@ -7,7 +7,7 @@
 1. Place the **Warden Summoner v1 by YuriSquid (26.2)** folder into your world's datapacks folder.
 2. Open your world.
 3. Type `/reload` in the game chat. You should see a green **"Warden Summoner Datapack Loaded!"** message.
-3a. If `/reload` doesn't work, type `/function warden_pack:load`
+4. 3a. If `/reload` doesn't work, type `/function warden_pack:load`
 
 
 ## __HOW TO USE__
