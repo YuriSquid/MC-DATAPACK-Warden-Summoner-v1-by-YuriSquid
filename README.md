@@ -1,6 +1,4 @@
-======================================
 Warden Summoner v1 by YuriSquid
-======================================
 
 MINECRAFT DATAPACK
 
